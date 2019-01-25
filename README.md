@@ -17,5 +17,6 @@ https://apex.oracle.com/pls/apex/f?p=15676:8
 
 ## How to use
 First, create a region of type **APEX KPI GAUGE** and place your query in its source :
+
 <img src="https://raw.githubusercontent.com/mortezamashhadi/orclapex-kpi-gauge/master/images/query.jpg?token=AsPn-vD1cQwr5tzynwtc3-bMYPkoVjznks5cS29WwA%3D%3D" width="600px">
 
