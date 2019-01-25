@@ -20,3 +20,13 @@ First, create a region of type **APEX KPI GAUGE** and place your query in its so
 
 <img src="https://raw.githubusercontent.com/mortezamashhadi/orclapex-kpi-gauge/master/images/query.jpg?token=AsPn-vD1cQwr5tzynwtc3-bMYPkoVjznks5cS29WwA%3D%3D" width="600px">
 
+Your query must have these values: **gaugePoint,startPoint,endPoint,startYellow,startGreen** 
+for example in the above dode:
+gauge point  is 70
+start gauge is 0
+end gauge is  100
+start yellow color of gauge is 20
+and start green color of gauge is 80
+
+
+
