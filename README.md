@@ -26,6 +26,14 @@ end gauge is  100
 start yellow color of gauge is 20  
 and start green color of gauge is 80  
 This region have some attributes that the image below shows all of them  
-<img src="https://raw.githubusercontent.com/mortezamashhadi/orclapex-kpi-gauge/master/images/attributes.jpg?token=AsPn-oCCWBBkB-a-kxJkwZp4UkatpIp2ks5cS3KawA%3D%3D"> <br>
-
+<img src="https://raw.githubusercontent.com/mortezamashhadi/orclapex-kpi-gauge/master/images/attributes.jpg?token=AsPn-oCCWBBkB-a-kxJkwZp4UkatpIp2ks5cS3KawA%3D%3D">  
+**Gauge Name:** If you have more than one gauge in your page, set different names.  
+**Ticks Divisions:** This is the number of major divisions around your arc.  
+**Ticks DivWidth:** This is to set the width of the indicator.  
+**Ticks DivLength:** This is a fractional percentage of the height of your arc line (0.5 = 50%).  
+**Ticks DivColor:** This sets the color of the division markers.  
+**Ticks SubDivisions:** This sets the minor tick marks count between major ticks.  
+**Ticks SubLength:** This is a fractional percentage of the height of your arc line (0.5 = 50%).  
+**Ticks SubWidth:** This is to set the width of the indicator.  
+**Ticks SubColor:** This sets the color of the subdivision markers  
 
