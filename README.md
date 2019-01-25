@@ -14,3 +14,5 @@ https://apex.oracle.com/pls/apex/f?p=15676:8
 1- Download this repository and import the plug-in into your application from this location:
 
 `plugin/region_type_plugin_apex_bi_kpi_gauge.sql`
+
+## How to use
