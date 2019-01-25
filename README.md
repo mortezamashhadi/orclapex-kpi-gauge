@@ -16,5 +16,5 @@ https://apex.oracle.com/pls/apex/f?p=15676:8
 `plugin/region_type_plugin_apex_bi_kpi_gauge.sql`
 
 ## How to use
-First, create a region of type ** APEX KPI GAUGE ** and place your query in its source :
+First, create a region of type **APEX KPI GAUGE** and place your query in its source :
 
