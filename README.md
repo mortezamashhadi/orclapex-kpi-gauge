@@ -11,7 +11,7 @@ https://apex.oracle.com/pls/apex/f?p=15676:8
 ## How to install
 1- Download this repository and import the plug-in into your application from this location:
 
-`plugin/region_type_plugin_apex_bi_kpi_gauge.sql`
+`plugin/region_type_plugin_ir_apex_kpi_gauge.sql`
 
 ## How to use
 Create a region of type **APEX KPI GAUGE** and place your query in its source
