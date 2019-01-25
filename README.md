@@ -19,7 +19,7 @@ Create a region of type **APEX KPI GAUGE** and place your query in its source
 <img src="https://raw.githubusercontent.com/mortezamashhadi/orclapex-kpi-gauge/master/images/query.jpg?token=AsPn-vD1cQwr5tzynwtc3-bMYPkoVjznks5cS29WwA%3D%3D" width="600px">
 
 Your query must have these values in order: **gaugePoint,startPoint,endPoint,startYellow,startGreen**  
-For example in the above code:  
+For example in the above query:  
 gauge point  is 70  
 start gauge is 0  
 end gauge is  100  
