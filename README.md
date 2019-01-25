@@ -26,7 +26,7 @@ gauge point  is 70 <br>
 start gauge is 0 <br>
 end gauge is  100 <br>
 start yellow color of gauge is 20 <br>
-and start green color of gauge is 80 <br>
+and start green color of gauge is 80  
 This region have some attributes that the image below shows all of them <br>
 <img src="https://raw.githubusercontent.com/mortezamashhadi/orclapex-kpi-gauge/master/images/attributes.jpg?token=AsPn-oCCWBBkB-a-kxJkwZp4UkatpIp2ks5cS3KawA%3D%3D"> <br>
 
