@@ -36,4 +36,8 @@ This region have some attributes that the image below shows all of them
 **Ticks SubLength:** This is a fractional percentage of the height of your arc line (0.5 = 50%).  
 **Ticks SubWidth:** This is to set the width of the indicator.  
 **Ticks SubColor:** This sets the color of the subdivision markers  
+## reference
 
+https://github.com/bernii/gauge.js  
+
+http://bernii.github.io/gauge.js/   
