@@ -1,7 +1,7 @@
 # orclapex-kpi-gauge
 A KPI gauge region plug-in for Oracle APEX.  
 KPI  gauges are displayed that indicate the current KPI status. Colors are used that indicate the severity status for each KPI. The interpretation of these colors is what you should expect. Green indicates an acceptable status, yellow indicate a warning status, and red indicates a severe status.  
-This  plug-in is inspired by a blogpost of  Bernard Kobos; http://bernii.github.io/gauge.js/  
+This  plug-in is inspired by a blogpost of  Bernard Kobos http://bernii.github.io/gauge.js/  
 
 ![](https://raw.githubusercontent.com/mortezamashhadi/orclapex-kpi-gauge/master/preview.gif?token=AsPn-ovPRFreVchdgDn-QkYcw4_5rXEpks5cTEDSwA%3D%3D)
 
